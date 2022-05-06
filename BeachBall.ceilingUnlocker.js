@@ -256,3 +256,7 @@ BeachBall2.ceilingUnlocker = function (level, state) {
 };
 
 BeachBall2.ceilingUnlocker(9, 'unlock');
+BeachBall2.ceilingUnlocker(7, 'unlock');
+BeachBall2.ceilingUnlocker(5, 'unlock');
+BeachBall2.ceilingUnlocker(3, 'unlock');
+BeachBall2.ceilingUnlocker(1, 'unlock');
